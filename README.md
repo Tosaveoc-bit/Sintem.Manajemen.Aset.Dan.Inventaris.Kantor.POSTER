@@ -1,1 +1,3 @@
-# Sintem.Manajemen.Aset.Dan.Inventaris.Kantor.POSTER
+# POSTER
+
+![Poster](POSTER.jpeg)
